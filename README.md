@@ -80,5 +80,5 @@ Checking out the code
 
 Run the following:
 
-    easy_install -U infi.projector
+    easy_install -U infi.traceback
     projector devenv build
